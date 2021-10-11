@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajoq/defender-game.git"
+    "url": "git+https://github.com/ajoq/Babel.git"
   },
   "keywords": [
     "game"
@@ -17,9 +17,9 @@
   "author": "Konstantin Beloglazov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajoq/defender-game/issues"
+    "url": "https://github.com/ajoq/Babel/issues"
   },
-  "homepage": "https://github.com/ajoq/defender-game#readme",
+  "homepage": "https://github.com/ajoq/Babel#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.8",
